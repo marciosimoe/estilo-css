@@ -1,0 +1,10 @@
+#Passaros {
+    background: url(img/images\ 2.jpg);
+border: 3px solid #000;
+}
+P{ 
+    text-align: center;
+}
+p:hover {
+    background-color: rgb(0, 0, 0)62, 62, 143);
+}
